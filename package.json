@@ -1,0 +1,17 @@
+{
+  "name": "fistival-back-end",
+  "version": "1.0.0",
+  "description": "projet hackathon",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "author": "ellaAhmad",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
