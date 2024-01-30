@@ -3,6 +3,9 @@ module.exports=(sequelize, DataTypes)=>{
         email:{
             type: DataTypes.EMAIL,
 
+        },
+        password:{
+            
         }
     })
 }
